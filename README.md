@@ -9,6 +9,7 @@ sudo apt-get install cmake libglew-dev xorg-dev libcurl4-openssl-dev
 sudo apt-get build-dep glfw
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 同步源码
+在终端输入
 git clone https://github.com/kissggj123/MineTraft.git
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 编译游戏
@@ -17,4 +18,5 @@ cmake .  //（别忘记点）
 make
 等待操作完成即可
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-./craft  //（运行游戏）
+运行游戏
+./craft    //（运行游戏）
